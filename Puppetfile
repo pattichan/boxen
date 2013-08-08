@@ -35,4 +35,5 @@ github "sudo",       "1.0.0"
 # https://github.com/boxen.
 
 github "mongodb",     "1.0.4"
+github "sysctl",      "1.0.0"
 github "postgresql",  "2.0.0"
