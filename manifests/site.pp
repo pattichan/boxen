@@ -56,6 +56,7 @@ node default {
   include nginx
 
   include mongodb
+  include postgresql
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
